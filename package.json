@@ -1,17 +1,17 @@
 {
-  "name": "@dream-mythic/web-tracking",
+ "name": "@dreammythic.studio/web-tracking",
   "version": "1.0.0",
   "description": "A privacy-conscious web analytics tracking SDK for React applications.",
   "license": "MIT",
-  "author": "Dream Mythic",
+  "author": "Dream Mythic Studio",
   "repository": {
     "type": "git",
-    "url": "https://github.com/MAINTAINER/REPOSITORY.git"
+    "url": "git+https://github.com/vaibhavdhake123/web-tracking.git"
   },
   "bugs": {
-    "url": "https://github.com/MAINTAINER/REPOSITORY/issues"
+    "url": "https://github.com/vaibhavdhake123/web-tracking/issues"
   },
-  "homepage": "https://github.com/MAINTAINER/REPOSITORY#readme",
+  "homepage": "https://github.com/vaibhavdhake123/web-tracking#readme",
   "type": "module",
   "main": "./dist/index.cjs",
   "module": "./dist/index.js",
