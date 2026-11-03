@@ -1,0 +1,16 @@
+export const ENDPOINTS = {
+  collect: "/api/web-tracking/collect",
+  batch: "/api/web-tracking/batch",
+  sessionStart: "/api/web-tracking/session/start",
+  sessionHeartbeat: "/api/web-tracking/session/heartbeat",
+  sessionEnd: "/api/web-tracking/session/end",
+  realtime: "/api/web-tracking/realtime",
+  overview: "/api/web-tracking/overview",
+  pages: "/api/web-tracking/pages",
+  events: "/api/web-tracking/events",
+  sources: "/api/web-tracking/sources",
+  devices: "/api/web-tracking/devices",
+  locations: "/api/web-tracking/locations",
+  funnels: "/api/web-tracking/funnels",
+  performance: "/api/web-tracking/performance",
+} as const;
